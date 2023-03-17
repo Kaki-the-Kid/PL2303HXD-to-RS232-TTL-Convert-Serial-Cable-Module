@@ -1,7 +1,6 @@
 # PL2303HXD-to-RS232-TTL-Convert-Serial-Cable-Module
 
 |   |   |
-|
 | ![image](https://user-images.githubusercontent.com/44589560/225892775-e9538c0c-79ec-41bb-94ca-b78f704b19f2.png)  | ![image](https://user-images.githubusercontent.com/44589560/225892976-89cc2b65-e42e-414e-b59a-2268f055f661.png)  |
 
 Beskrivelse
@@ -40,6 +39,9 @@ Du er altid velkommen til at kontakte os på info@ardustore.dk, og vi vil hjælp
 
 
 ![image](https://user-images.githubusercontent.com/44589560/225899659-f9a60b1b-bcfd-4f02-b1ad-219e7f4f3826.png)
+
+## Referencer
+* https://www.prolific.com.tw/US/ShowProduct.aspx?p_id=225&pcid=41
 
 
 
