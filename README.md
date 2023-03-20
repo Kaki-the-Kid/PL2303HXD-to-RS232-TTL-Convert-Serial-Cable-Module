@@ -67,5 +67,7 @@ It works as above but this is very different than usual wiring. Im really confus
 
 ![image](https://user-images.githubusercontent.com/44589560/226275398-813a7be2-1616-42ae-ae7e-d068398d7f80.png)
 
+### NMEA0183 References
+* https://www.cruiserswiki.org/wiki/NMEA_0183
 
 ## Wiring NMEA2000
