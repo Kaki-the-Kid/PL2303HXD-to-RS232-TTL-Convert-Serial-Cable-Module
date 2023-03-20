@@ -62,3 +62,10 @@ But when I wired this as RS422 as usual it didn't work I didn't receive or send 
 ```
 It works as above but this is very different than usual wiring. Im really confused what could be the reason?
 
+## Wiring NMEA0183
+![image](https://user-images.githubusercontent.com/44589560/226274242-4b115e12-56f8-4af0-b2ff-88d8c4971bfe.png)
+
+![image](https://user-images.githubusercontent.com/44589560/226275398-813a7be2-1616-42ae-ae7e-d068398d7f80.png)
+
+
+## Wiring NMEA2000
