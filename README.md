@@ -2,7 +2,7 @@
 
 |     |     |
 | --- | --- |
-| ![image](https://user-images.githubusercontent.com/44589560/225892775-e9538c0c-79ec-41bb-94ca-b78f704b19f2.png)  | ![image](https://user-images.githubusercontent.com/44589560/225892976-89cc2b65-e42e-414e-b59a-2268f055f661.png)  |
+| ![image max-width: 250px](https://user-images.githubusercontent.com/44589560/225892775-e9538c0c-79ec-41bb-94ca-b78f704b19f2.png)  | ![image](https://user-images.githubusercontent.com/44589560/225892976-89cc2b65-e42e-414e-b59a-2268f055f661.png)  |
 
 Beskrivelse
 PL2303HXD to RS232 TTL Convert Serial Cable Module. The PL-2303HXD is a low cost and high performance USB-to-Serial Bridge Controller. The PL-2303HXD provides a convenient solution for connecting an RS-232 full-duplex asynchronous serial device to any Universal Serial Bus (USB) capable host. The PL-2303HXD highly compatible drivers could simulate the traditional COM port on most operating systems allowing the existing applications based on COM port to easily migrate and be made USB ready.
