@@ -43,5 +43,20 @@ Du er altid velkommen til at kontakte os på info@ardustore.dk, og vi vil hjælp
 ## Referencer
 * https://www.prolific.com.tw/US/ShowProduct.aspx?p_id=225&pcid=41
 
+## Wiring RS422
+![image](https://user-images.githubusercontent.com/44589560/226272169-a6c733ac-f699-4368-b2aa-5caf5c2a7ea4.png)
 
+But when I wired this as RS422 as usual it didn't work I didn't receive or send data through Hyper-terminal. But when I wired it as following it worked:
+
+  DB9 port pin -->Instrument pin
+
+  pin1 TxD- -----> TxD+
+  pin2 TxD+ -----> TxD-
+  
+  pin3 RxD+ -----> RxD-
+  pin4 RxD- -----> RxD+
+
+  pin5 GND to GND
+
+It works as above but this is very different than usual wiring. Im really confused what could be the reason?
 
