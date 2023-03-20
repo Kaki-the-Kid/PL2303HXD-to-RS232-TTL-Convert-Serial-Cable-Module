@@ -49,6 +49,7 @@ Du er altid velkommen til at kontakte os på info@ardustore.dk, og vi vil hjælp
 
 But when I wired this as RS422 as usual it didn't work I didn't receive or send data through Hyper-terminal. But when I wired it as following it worked:
 
+```
   DB9 port pin -->Instrument pin
 
   pin1 TxD- -----> TxD+
@@ -58,6 +59,6 @@ But when I wired this as RS422 as usual it didn't work I didn't receive or send 
   pin4 RxD- -----> RxD+
 
   pin5 GND to GND
-
+```
 It works as above but this is very different than usual wiring. Im really confused what could be the reason?
 
