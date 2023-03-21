@@ -46,9 +46,9 @@ Du er altid velkommen til at kontakte os på info@ardustore.dk, og vi vil hjælp
 
 ## Schematic
 
-![image](https://user-images.githubusercontent.com/44589560/226277792-edaa1dbe-ae77-4c8d-bec2-070ad1ba1230.png)
-
-![image](https://user-images.githubusercontent.com/44589560/226277962-3641dbfc-3d53-40d1-9112-d1b312d3dde8.png)
+|     |     |
+| --- | --- |
+| ![image](https://user-images.githubusercontent.com/44589560/226277792-edaa1dbe-ae77-4c8d-bec2-070ad1ba1230.png) | ![image](https://user-images.githubusercontent.com/44589560/226277962-3641dbfc-3d53-40d1-9112-d1b312d3dde8.png) |
 
 ## Wiring RS422
 ![image](https://user-images.githubusercontent.com/44589560/226272169-a6c733ac-f699-4368-b2aa-5caf5c2a7ea4.png)
