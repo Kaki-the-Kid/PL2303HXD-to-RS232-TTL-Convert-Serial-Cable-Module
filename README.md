@@ -35,10 +35,6 @@ PC Docking Station/Port Replicators
 Industrial/Instrumentation/Automation Control USB Interface
 USB Modem/Wireless/Zigbee USB Interface
 
-Kontakt os
-Du er altid velkommen til at kontakte os på info@ardustore.dk, og vi vil hjælpe dig.
-
-
 ![image](https://user-images.githubusercontent.com/44589560/225899659-f9a60b1b-bcfd-4f02-b1ad-219e7f4f3826.png)
 
 ## Referencer
